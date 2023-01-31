@@ -1,0 +1,50 @@
+ENG.
+------------------------------
+
+This model of jeep is absolutely free. This model is allowed to be used for any purpose (training, personal purposes, as well as in commercial projects).
+This package contains:
+- Jeep model
+- Wheel model
+- Textures and materials for coloring models
+- Wheel and jeep prefabs.
+- Demo scene, for viewing the model.
+------------------------------
+
+The wheels are made by a separate object (obj), as well as a prefab, which makes it possible to animate the car.
+
+------------------------------
+
+If you liked this model, please leave a review :)
+
+And also see my other projects:
+- 36 Animated Pixel Humans: https://assetstore.unity.com/packages/2d/characters/36-animated-pixel-humans-150852
+- Free Pixel Space Platform Pack: https://assetstore.unity.com/packages/2d/characters/free-pixel-space-platform-pack-146318
+- 100+ Modern Pixel Decorations: https://assetstore.unity.com/packages/2d/textures-materials/100-modern-pixel-decorations-179540
+
+------------------------------
+
+Ru.
+------------------------------
+
+Данная модель джипа является абсолютно бесплатной. Данную модель разрешено использовать в любых целях (обучении, личных целях, а также в коммерческих проектах).
+Данный пакет содержит в себе:
+- Модель джипа
+- Модель колеса
+- Текстуры и материалы для окраса моделей
+- Префабы колеса и джипа.
+- Демо сцена, для просмотра модели.
+
+------------------------------
+
+Колеса сделаны отдельным объектом (obj), а также префабом, что даёт возможность анимирования машины.
+
+------------------------------
+
+Если вам понравилась данная модель, прошу оставьте отзыв :)
+
+А также посмотрите другие мои проекты:
+- 36 Animated Pixel Humans: https://assetstore.unity.com/packages/2d/characters/36-animated-pixel-humans-150852
+- Free Pixel Space Platform Pack: https://assetstore.unity.com/packages/2d/characters/free-pixel-space-platform-pack-146318
+- 100+ Modern Pixel Decorations: https://assetstore.unity.com/packages/2d/textures-materials/100-modern-pixel-decorations-179540
+
+------------------------------
