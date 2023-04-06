@@ -4,4 +4,5 @@ The player's task is to destroy cars and avoid tanks. Earning points speeds up t
 The best score recording system was used. <br />
 Object pooling was applied to vehicles. <br />
 Unity version: 2020.3.26 <br />
-Game presentation on youtube: <a>https://youtu.be/O7eVcHMeTow<a/>
+
+Presentation on Youtube: https://youtu.be/O7eVcHMeTow
